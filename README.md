@@ -1,61 +1,74 @@
-<header>
+# 🌹 GitHub Navigation & Workflow Practice  
+## ⭐ About This Repository  
+This project of mine is a hands-on GitHub workflow practice repo that I created to understand real-world GitHub developer workflows.
+It brings together everything from issues → commits → branches → PRs → GitHub Pages.
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Connect the dots in a GitHub repository
-
-_Useful tips when navigating through your repository._
-
-</header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## Finish
-
-_Congratulations friend, you've completed this course! :tada:_
-
-<img src="https://octodex.github.com/images/collabocats.jpg" alt=celebrate width=300 align=right>
-
-In this course, you've learned a lot about finding and sharing information. Within a GitHub repository, you can find history about what changes were made, and more importantly, _why_ changes were made.
-
-### What's next?
-
-You can enable GitHub Pages and see `docs/index.html` as a website!
-
-1. Replace `USERNAME` with your GitHub username and `REPONAME` with your GitHub repository name in `docs/index.html`.
-1. Under your repository name at the upper right, click :gear: **Settings**.
-1. Then on the lower left, click **Pages**.
-1. In the **GitHub Pages** section, select `main` in the **Select branch** drop-down menu and `/docs` in the **Select folder** drop-down menu.
-1. Click the **Save** button.
-1. Wait about 30 seconds then refresh the page. When you see "Your site is published at ...," you can click on the link to see your published site.
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- We'd love to hear what you thought of this course in our [discussion board](https://github.com/orgs/skills/discussions/categories/connect-the-dots).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+<div align="center"> <img src="https://octodex.github.com/images/filmtocat.png" width="160"/> </div>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/connect-the-dots) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## ⭐ Why This Repo Exists  
+To help me keep track of what I learnt in my 20s and solidify my understanding of how GitHub works behind the scenes —  
+from **tracking history** to **connecting issues**, from **fixing documentation** to **publishing a small website**.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-</footer>
+---
+
+## ⭐ Key Skills Practiced  
+### ✔️ Issues  
+- Creating issues  
+- Resolving duplicates  
+- Linking issues to PRs  
+- Using “Closes #X”  
+
+### ✔️ Commits  
+- Reading commit history  
+- Finding relevant commits  
+- Making meaningful commit messages  
+
+### ✔️ Branching  
+- Creating feature branches  
+- Fixing bugs in isolated branches  
+- Deleting branches after merge  
+
+### ✔️ Pull Requests  
+- Opening PRs  
+- Assigning yourself  
+- Adding descriptions  
+- Merging  
+
+### ✔️ GitHub Pages  
+- Publishing the repo as a website  
+- Using the `/docs` folder  
+- Deploying Docsify  
+
+---
+
+## 🌐 Live Website  
+🌹 **https://krittikabiswas.github.io/Github-navigation-practice/**  
+
+---
+
+## ⭐ Tasks Completed in This Repo  
+- 🌨️ Found the correct commit in history  
+- 🌨️ Fixed a broken sidebar link  
+- 🌨️ Created the branch **fix-sidebar**  
+- 🌨️ Opened a PR and self-assigned  
+- 🌨️ Added “Closes #2” and auto-linked the issue  
+- 🌨️ Merged the PR  
+- 🌨️ Deleted the branch  
+- 🌨️ Published documentation via GitHub Pages  
+
+---
+
+## 💙 Author  
+**Krittika Biswas**  
+> Exploring GitHub workflows one step at a time ✨  
+> Learning version control more precisely🌹
+
+This repo was created during the learning process of connecting the dots from github skills, that I was at my brother's wedding at Kharagpur at Ulpi di's room
+If this repo helped you or made you proud,  
+⭐ **drop a star!**
+
+---
+
